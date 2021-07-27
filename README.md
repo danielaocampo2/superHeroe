@@ -2,7 +2,7 @@
 
 spa is the first activity in the udemy angular course.
 
-In this project, a menu was created to interact in different tabs and give information about heroes, the concept is also put into practice as in **ngif** and ngfor, and finally we use a parent component and a child component. 
+In this project, a menu was created to interact in different tabs and give information about heroes, the concept is also put into practice as in **ngIf** and **ngFor**, and finally we use a parent component and a child component. 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
 
